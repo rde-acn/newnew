@@ -10,7 +10,7 @@
 
 ## 📋 AssetStatus
 <!-- RDE_ASSET_STATUS:START -->
-stage-exploring
+stage-proven
 <!-- END: RDE Asset Status -->
 
 ## 🗂️ AssetCategory
